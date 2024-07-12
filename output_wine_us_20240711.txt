@@ -1,0 +1,211 @@
+country;variety;points;price
+US       ;Pinot Noir                ;442072;45,0
+US       ;Cabernet Sauvignon        ;324703;45,0
+US       ;Chardonnay                ;300509;28,0
+US       ;Syrah                     ;146131;35,0
+US       ;Red Blend                 ;129689;28,5
+US       ;Zinfandel                 ;118861;28,0
+US       ;Merlot                    ;101742;25,0
+US       ;Sauvignon Blanc           ;97226;19,0
+US       ;Bordeaux-style Red Blend  ;86577;49,0
+US       ;Riesling                  ;77507;18,0
+US       ;Cabernet Franc            ;43905;30,0
+US       ;Rosé                      ;39560;18,0
+US       ;Pinot Gris                ;38486;18,0
+US       ;Viognier                  ;35868;24,0
+US       ;Petite Sirah              ;32697;30,0
+US       ;Sparkling Blend           ;31536;30,0
+US       ;Rhône-style Red Blend     ;30578;36,0
+US       ;White Blend               ;28366;19,0
+US       ;Malbec                    ;21580;34,0
+US       ;Grenache                  ;21241;33,0
+US       ;Sangiovese                ;19723;26,0
+US       ;Gewürztraminer            ;18545;18,0
+US       ;Pinot Grigio              ;15360;14,0
+US       ;Tempranillo               ;14277;30,0
+US       ;Petit Verdot              ;10698;35,0
+US       ;Meritage                  ;10250;35,0
+US       ;Rhône-style White Blend   ;10111;26,5
+US       ;Barbera                   ;9752;25,0
+US       ;Mourvèdre                 ;9716;32,0
+US       ;Pinot Blanc               ;9614;20,5
+US       ;Roussanne                 ;6188;25,0
+US       ;Albariño                  ;6032;23,0
+US       ;Chenin Blanc              ;5909;19,0
+US       ;Grenache Blanc            ;5602;25,0
+US       ;G-S-M                     ;5330;34,5
+US       ;Grüner Veltliner          ;4881;20,0
+US       ;Primitivo                 ;4599;28,0
+US       ;Champagne Blend           ;4059;29,0
+US       ;Moscato                   ;3721;13,0
+US       ;Sémillon                  ;3643;22,0
+US       ;Cabernet Sauvignon-Syrah  ;2864;42,5
+US       ;Fumé Blanc                ;2718;19,0
+US       ;Carmenère                 ;2637;34,0
+US       ;Port                      ;2470;35,5
+US       ;Tannat                    ;2389;30,0
+US       ;Nebbiolo                  ;2384;30,0
+US       ;Sauvignon Blanc-Semillon  ;2145;29,0
+US       ;Dolcetto                  ;2100;24,5
+US       ;Shiraz                    ;1984;23,0
+US       ;Vidal Blanc               ;1981;25,0
+US       ;Semillon-Sauvignon Blanc  ;1954;25,0
+US       ;Vermentino                ;1662;26,0
+US       ;Cabernet Sauvignon-Merlot ;1589;34,0
+US       ;Syrah-Grenache            ;1527;34,0
+US       ;Syrah-Cabernet Sauvignon  ;1518;50,0
+US       ;Bordeaux-style White Blend;1417;25,0
+US       ;Marsanne                  ;1408;31,0
+US       ;Claret                    ;1327;28,0
+US       ;Charbono                  ;1321;38,0
+US       ;Muscat                    ;1318;16,0
+US       ;Muscat Canelli            ;1312;24,0
+US       ;Grenache-Syrah            ;1251;38,5
+US       ;Carignane                 ;1243;28,0
+US       ;Cinsault                  ;1161;26,0
+US       ;Orange Muscat             ;1055;16,5
+US       ;Gamay Noir                ;976;25,0
+US       ;Pinot Meunier             ;965;35,0
+US       ;Verdelho                  ;953;15,0
+US       ;Petite Verdot             ;897;33,5
+US       ;Blaufränkisch             ;886;25,0
+US       ;Touriga Nacional          ;864;24,0
+US       ;Chambourcin               ;843;18,0
+US       ;Roussanne-Viognier        ;807;32,0
+US       ;Marsanne-Roussanne        ;791;24,0
+US       ;Aglianico                 ;789;28,0
+US       ;Tocai Friulano            ;787;20,0
+US       ;Lemberger                 ;786;19,0
+US       ;Baco Noir                 ;779;25,0
+US       ;Petit Manseng             ;772;25,0
+US       ;Cabernet Franc-Merlot     ;718;42,5
+US       ;Cabernet Blend            ;710;77,5
+US       ;Garnacha                  ;702;28,0
+US       ;Colombard                 ;702;20,0
+US       ;Arneis                    ;618;20,0
+US       ;Montepulciano             ;616;30,0
+US       ;Pinotage                  ;612;32,0
+US       ;Chenin Blanc-Viognier     ;611;14,0
+US       ;Rkatsiteli                ;595;25,0
+US       ;Chardonnay-Viognier       ;595;20,0
+US       ;Müller-Thurgau            ;594;15,0
+US       ;Norton                    ;582;25,0
+US       ;Auxerrois                 ;534;21,0
+US       ;Merlot-Cabernet Franc     ;533;29,5
+US       ;Syrah-Petite Sirah        ;531;35,5
+US       ;Counoise                  ;531;32,5
+US       ;Graciano                  ;526;28,0
+US       ;Fiano                     ;526;18,0
+US       ;Vignoles                  ;513;15,0
+US       ;Cabernet Merlot           ;508;10,5
+US       ;Seyval Blanc              ;506;17,0
+US       ;Syrah-Viognier            ;448;37,0
+US       ;Merlot-Cabernet Sauvignon ;443;45,0
+US       ;Cabernet Sauvignon-Caberne;440;48,0
+US       ;Teroldego                 ;439;30,0
+US       ;White Riesling            ;437;18,0
+US       ;Muscat Blanc              ;436;20,0
+US       ;Aligoté                   ;434;14,0
+US       ;Muskat Ottonel            ;433;20,0
+US       ;Monastrell                ;364;23,0
+US       ;Grenache-Carignan         ;362;25,0
+US       ;Cabernet Sauvignon-Sangiov;359;45,0
+US       ;Pinot-Chardonnay          ;359;28,0
+US       ;Black Muscat              ;357;23,0
+US       ;Syrah-Cabernet            ;355;45,5
+US       ;Cabernet-Syrah            ;353;25,0
+US       ;Merlot-Cabernet           ;352;8,0
+US       ;Valdiguié                 ;350;10,0
+US       ;Sagrantino                ;349;50,0
+US       ;Malvasia Bianca           ;347;22,5
+US       ;Johannisberg Riesling     ;347;7,0
+US       ;Sangiovese-Cabernet Sauvig;343;27,5
+US       ;Verdejo                   ;343;18,0
+US       ;Syrah-Mourvèdre           ;342;32,0
+US       ;Traminette                ;342;14,5
+US       ;Syrah-Tempranillo         ;271;45,0
+US       ;Dornfelder                ;270;25,0
+US       ;Torrontés                 ;269;22,0
+US       ;Nero d'Avola              ;264;30,0
+US       ;Zweigelt                  ;264;30,0
+US       ;Tempranillo Blend         ;263;24,0
+US       ;Sangiovese-Syrah          ;261;36,0
+US       ;Malbec-Merlot             ;260;27,0
+US       ;Gamay                     ;257;30,0
+US       ;Chardonnay-Albariño       ;183;31,0
+US       ;Viognier-Roussanne        ;183;22,0
+US       ;Pinot Noir-Syrah          ;181;52,0
+US       ;Picpoul                   ;180;31,5
+US       ;Carignan                  ;179;32,5
+US       ;Sangiovese Cabernet       ;178;53,5
+US       ;Touriga                   ;178;45,5
+US       ;Rosato                    ;178;23,0
+US       ;Grenache-Mourvèdre        ;177;30,0
+US       ;Cabernet Sauvignon-Malbec ;176;39,0
+US       ;Edelzwicker               ;176;22,0
+US       ;Sherry                    ;176;20,5
+US       ;Cabernet Franc-Lemberger  ;174;20,0
+US       ;Morio Muskat              ;174;17,0
+US       ;Lagrein                   ;172;47,5
+US       ;Mataro                    ;172;20,0
+US       ;Vidal                     ;172;13,5
+US       ;Ribolla Gialla            ;171;27,0
+US       ;Muscadine                 ;171;22,5
+US       ;Madeleine Angevine        ;171;17,5
+US       ;Chelois                   ;170;22,5
+US       ;Semillon-Chardonnay       ;170;11,0
+US       ;Blanc du Bois             ;169;30,5
+US       ;Symphony                  ;167;8,5
+US       ;Chancellor                ;161;16,0
+US       ;Sauvignon Gris            ;94;40,0
+US       ;Tempranillo-Cabernet Sauvi;93;90,0
+US       ;Tannat-Syrah              ;93;40,0
+US       ;Touriga Nacional Blend    ;93;16,0
+US       ;Ugni Blanc                ;92;27,0
+US       ;Black Monukka             ;92;25,0
+US       ;Malbec-Tannat             ;91;50,0
+US       ;Grenache Noir             ;91;36,0
+US       ;Viognier-Grenache Blanc   ;91;34,0
+US       ;Muskat                    ;91;28,0
+US       ;Alicante Bouschet         ;90;36,0
+US       ;Tinta Amarela             ;90;30,0
+US       ;Kerner                    ;90;25,0
+US       ;Pinot Gris-Gewürztraminer ;90;20,0
+US       ;Debit                     ;89;130,0
+US       ;Tinta Madeira             ;89;45,0
+US       ;Garnacha Blanca           ;89;28,0
+US       ;Refosco                   ;89;28,0
+US       ;Cabernet                  ;89;19,0
+US       ;Syrah-Cabernet Franc      ;88;69,0
+US       ;Viognier-Chardonnay       ;88;49,0
+US       ;Muscat Hamburg            ;88;32,0
+US       ;Chardonnay-Semillon       ;88;30,0
+US       ;Chardonnay-Pinot Blanc    ;88;26,0
+US       ;Mission                   ;88;18,0
+US       ;Melon                     ;88;15,0
+US       ;Piquepoul Blanc           ;88;13,0
+US       ;Malbec-Syrah              ;87;?
+US       ;Merlot-Malbec             ;87;85,0
+US       ;Pinot Grigio-Sauvignon Bla;87;35,0
+US       ;Barbera-Nebbiolo          ;87;30,0
+US       ;Muscat Blanc Ã  Petits Grai;87;20,0
+US       ;Pinot Blanc-Viognier      ;87;19,0
+US       ;Sauvignon Blanc-Chenin Bla;87;16,0
+US       ;Palomino                  ;86;32,0
+US       ;Saperavi                  ;86;30,0
+US       ;Cabernet Franc-Cabernet Sa;86;22,0
+US       ;Pinot Blanc-Chardonnay    ;86;21,0
+US       ;Marquette                 ;86;17,0
+US       ;Trebbiano                 ;86;16,0
+US       ;Viognier-Marsanne         ;86;16,0
+US       ;Silvaner                  ;86;14,0
+US       ;Diamond                   ;86;10,0
+US       ;Abouriou                  ;85;75,0
+US       ;Malvasia                  ;85;28,0
+US       ;Alvarelhão                ;85;18,0
+US       ;Cabernet Pfeffer          ;84;25,0
+US       ;Alvarinho                 ;84;19,0
+US       ;Viognier-Valdiguié        ;84;17,0
+US       ;Siegerrebe                ;84;15,0
+US       ;Negrette                  ;83;20,0
+US       ;Roussanne-Marsanne        ;82;22,0
